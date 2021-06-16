@@ -33,8 +33,8 @@ ini_set('display_errors', '1');
 //$clientSecret = 'EGnHDxD_qRPdaLdZz8iCr8N7_MzF-YHPTkjs6NKYQvQSBngp4PTTVWkPZRbL';
 
 //TO change: Mendy's ClientId and ClientSecret with Live id and key
-$clientId='Afql6rFM9sqsJ0Yx2J-SPtDqri0lDAnX5Ne_339ckG2kNYfXa6fWfLgYCKpj6QOaEaBlVt1zJv7U2ml4';
-$clientSecret='EOfHKSpZdQZ5zHwYZkkn9dR-lGxuMVuljpnV9cXxiWoKT0i12yKNm1lCS9Y6hMCeAeQlyus1-0VVR060';
+$clientId='';
+$clientSecret='';
 
 /** @var \Paypal\Rest\ApiContext $apiContext */
 $apiContext = getApiContext($clientId, $clientSecret);
