@@ -29,8 +29,6 @@ error_reporting(E_ALL);
 ini_set('display_errors', '1');
 
 // Replace these values by entering your own ClientId and Secret by visiting https://developer.paypal.com/webapps/developer/applications/myapps
-//$clientId = 'AYSq3RDGsmBLJE-otTkBtM-jBRd1TCQwFf9RGfwddNXWz0uFU9ztymylOhRS';
-//$clientSecret = 'EGnHDxD_qRPdaLdZz8iCr8N7_MzF-YHPTkjs6NKYQvQSBngp4PTTVWkPZRbL';
 
 //TO change: Mendy's ClientId and ClientSecret with Live id and key
 $clientId='';
